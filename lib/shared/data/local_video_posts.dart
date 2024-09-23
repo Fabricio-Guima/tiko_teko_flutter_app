@@ -36,7 +36,7 @@ List<Map<String, dynamic>> videoPosts = [
     'views': 330,
   },
   {
-    'name': 'Limpar nunca foi tão divertido',
+    'name': 'Pular corda nunca foi tão divertido',
     'videoUrl': 'assets/videos/7.mp4',
     'likes': 1320,
     'views': 33032,
