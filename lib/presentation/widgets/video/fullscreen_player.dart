@@ -70,7 +70,10 @@ class _FullscreenPlayerState extends State<FullscreenPlayer> {
                 VideoPlayer(controller),
 
                 // Gradient
-                VideoBackground(stops: const [0.8, 1.0],),
+                VideoBackground(
+                  stops: const [0.8, 1.0],
+                  
+                ),
           
                 Positioned(
                   bottom: 50,
